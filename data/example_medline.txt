@@ -1,0 +1,91 @@
+PMID- 2176897
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19910227
+LR  - 20171116
+IS  - 0006-2960 (Print)
+IS  - 0006-2960 (Linking)
+VI  - 29
+IP  - 51
+DP  - 1990 Dec 25
+TI  - Mutants of ubiquinol-cytochrome c2 oxidoreductase resistant to Qo site
+      inhibitors: consequences for ubiquinone and ubiquinol affinity and catalysis.
+PG  - 11249-60
+AB  - Seven single-site mutants in six residues of the cyt b polypeptide of Rhodobacter
+      capsulatus selected for resistance to the Qo site inhibitors stigmatellin,
+      myxothiazol, or mucidin [Daldal, F., Tokito, M.K., Davidson, E., & Faham, M.
+      (1989) EMBO J. 8, 3951-3961] have been characterized by using optical and EPR
+      spectroscopy and single-turnover kinetic analysis. The strains were compared with
+      wild-type strain MT1131 and with the Ps- strain R126 (G158D), which is
+      dysfunctional in its Qo site [Robertson, D.E., Davidson, E., Prince, R.C., van
+      den Berg, W.H., Marrs, B.L., & Dutton, P.L. (1986) J. Biol. Chem. 261, 584-591]. 
+      Mutants selected for stigmatellin resistance induced a weakening in the binding
+      of the inhibitor without discernible loss of ubiquinone(Q)/ubiquinol(QH2) binding
+      affinity to the Qo site or kinetic impairment to catalysis. Mutants selected for 
+      myxothiazol or mucidin resistance, inducing weakening of inhibitor binding, all
+      displayed impaired rates of Qo site catalysis: The most severe cases (F144L,
+      F144S) displayed loss of affinity for Q, and evidence suggests that parallel loss
+      of affinity for the substrate QH2 was incurred in these strains. The results
+      provide a view of the nature of the interaction of Q and QH2 of the Qpool with
+      the Qo site. Consideration of the mutational substitutions and their structural
+      positions along with comparisons with the QA and QB sites of the photosynthetic
+      reaction center suggests a model for the structure of the Qo site.
+FAU - Robertson, D E
+AU  - Robertson DE
+AD  - Department of Biochemistry and Biophysics, School of Medicine, University of
+      Pennsylvania, Philadelphia 19104.
+FAU - Daldal, F
+AU  - Daldal F
+FAU - Dutton, P L
+AU  - Dutton PL
+LA  - eng
+GR  - R01 GM038237/GM/NIGMS NIH HHS/United States
+GR  - GM 27309/GM/NIGMS NIH HHS/United States
+GR  - GM 38237/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - United States
+TA  - Biochemistry
+JT  - Biochemistry
+JID - 0370623
+RN  - 0 (Anti-Bacterial Agents)
+RN  - 0 (Cytochrome b Group)
+RN  - 0 (Fatty Acids, Unsaturated)
+RN  - 0 (Methacrylates)
+RN  - 0 (Polyenes)
+RN  - 0 (Strobilurins)
+RN  - 0 (Thiazoles)
+RN  - 1339-63-5 (Ubiquinone)
+RN  - 15143I0275 (mucidin)
+RN  - 76706-55-3 (myxothiazol)
+RN  - 91682-96-1 (stigmatellin)
+RN  - EC 1.10.2.2 (Electron Transport Complex III)
+RN  - M9NL0C577Y (ubiquinol)
+SB  - IM
+MH  - Amino Acid Sequence
+MH  - Anti-Bacterial Agents/pharmacology
+MH  - Cytochrome b Group/genetics/*metabolism
+MH  - Electron Spin Resonance Spectroscopy
+MH  - Electron Transport
+MH  - Electron Transport Complex III/antagonists & inhibitors/genetics/*metabolism
+MH  - Fatty Acids, Unsaturated/pharmacology
+MH  - Kinetics
+MH  - Methacrylates
+MH  - Models, Structural
+MH  - Molecular Sequence Data
+MH  - Mutation
+MH  - Oxidation-Reduction
+MH  - Polyenes/pharmacology
+MH  - Protein Conformation
+MH  - Rhodobacter capsulatus/metabolism
+MH  - Strobilurins
+MH  - Thiazoles/pharmacology
+MH  - Ubiquinone/*metabolism
+EDAT- 1990/12/25 00:00
+MHDA- 1990/12/25 00:01
+CRDT- 1990/12/25 00:00
+PHST- 1990/12/25 00:00 [pubmed]
+PHST- 1990/12/25 00:01 [medline]
+PHST- 1990/12/25 00:00 [entrez]
+PST - ppublish
+SO  - Biochemistry. 1990 Dec 25;29(51):11249-60.
