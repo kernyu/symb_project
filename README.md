@@ -1,9 +1,17 @@
-# symb_project
+# Symbolic Methods Project
 collaboration between Nenad Macesic and Kernyu Park
 
+## Tackling Antibiotic Resistance (aka AMR) Using Ontology Learning
 Aiming at an ontology-based approach to tackle antibiotic resistance.
 
-# tasks
+## Method(s)
+- Ontology Learning process (semi-automated)
+  - Topic-modeling methods using tf-idf weighting of terms
+  - annotation of biomedical texts using Metamap
+  - network analysis (clustering and community detection)
+
+
+## Tasks
 
 1. obtain MEDLINE corpus of abstracts and MeSH terms
 
