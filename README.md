@@ -26,5 +26,3 @@ Aiming at an ontology-based approach to tackle antibiotic resistance.
 6. construct an ontology (ontology generation)
 
 7. expert validation of the obtained ontology for further improvement
-
-
