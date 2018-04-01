@@ -3,7 +3,7 @@ from Bio import Medline
 # example script to download medline version of the pubmed query
 # esearch -db pubmed -query 'antimicrobial resistance' | efilter -mindate 1950 -maxdate 1990 -datetype PDAT | efetch -format medline > 50_90_medline.txt
 medline=[]
-with open('medline/10_18_medline.txt') as medline_file:
+with open('../data/medline/10_18_medline.txt') as medline_file:
 	records = Medline.parse(medline_file)
 	for record in records:
 		medline.append(record)

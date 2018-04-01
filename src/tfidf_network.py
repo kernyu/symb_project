@@ -10,7 +10,7 @@ from nltk.corpus import stopwords
 from nltk import word_tokenize
 tokenizer = RegexpTokenizer(r'\w+')
 
-corpus_root = 'abstract_50_90'
+corpus_root = '../data/abstract_50_90'
 corpus = PlaintextCorpusReader(corpus_root,fileids='[0-9]+')
 
 stop_words = stopwords.words() + list(punctuation) + ['None','Non']
