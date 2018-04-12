@@ -102,3 +102,6 @@ ENV/
 
 # root directory
 ~/
+
+# numpy file
+.npy
